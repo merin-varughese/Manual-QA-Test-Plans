@@ -39,7 +39,7 @@ The primary strategy will be **risk-based testing**, focusing heavily on securit
 | :--- | :--- | :--- |
 | **Web** | Chrome (latest), Firefox (latest) | Windows 11 and macOS |
 | **Mobile** | Android (latest 2 versions), iOS (latest 2 versions) | Specific device models will be sourced. |
-| **Backend** | Staging Server (with access to API logs/database via SQL) | |
+
 
 ### 3.2 Tools
 * **Test/Defect Management:** JIRA.
